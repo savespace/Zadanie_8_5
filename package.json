@@ -1,0 +1,27 @@
+{
+  "name": "8_5",
+  "version": "1.0.0",
+  "description": "Skrypt\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D Prosty \u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~skrypt",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "skrypt-kodilla"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savespace/Zadanie_8_5.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/Zadanie_8_5/issues"
+  },
+  "homepage": "https://github.com/savespace/Zadanie_8_5#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
